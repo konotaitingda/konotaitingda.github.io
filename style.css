@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+}
+#card {
+	margin: auto;
+	padding: 10px;
+	height: 460px;
+	width: 300px;
+	background-color: #FF7AD9;
+	border-radius: 25px;
+	-webkit-box-shadow: 5px 10px 10px 1px #979494;
+	box-shadow: 5px 10px 10px 1px #979494;
+}
+#pic {
+	background-color: #BEF55F;
+	margin: auto;
+	height: 200px;
+	width: 200px;
+	background-image: url(images/head3.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center 0%;
+	border-radius: 100px;
+	background-clip: content-box;
+}
+#word {
+	margin: auto;
+	width: 60%;
+	color: #2AE5CB;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: bolder;
+	/* [disabled]line-height: 0; */
+	text-indent: 10px;
+	text-align: center;
+	font-size: x-large;
+}
+h1 {
+	color: #150405;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: x-large;
+}
+h2 {
+	font-size: large;
+}
+h3 {
+	font-size: medium;
+	color: #12B2F5;
+}
+h4 {
+	color: #6FF987;
+	font-weight: bolder;
+}
